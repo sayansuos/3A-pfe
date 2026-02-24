@@ -1,0 +1,18 @@
+# Environnements virtuels
+.venv/
+env/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Données et Checkpoints (souvent trop lourds pour Git)
+checkpoints/
+data/
+*.pth
+*.ipynb_checkpoints/
+
+# Fichiers système et IDE
+.DS_Store
+.vscode/
